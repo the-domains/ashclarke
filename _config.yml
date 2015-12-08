@@ -1,26 +1,26 @@
-color:
-  saturation: 0.7715008
-  brandStrength: 0.4932546
-  rhythmicContrast: 0.2849916
-  brandColors:
-    - '#6489CE'
-    - '#B4CEF1'
-    - '#39421F'
-    - '#B4A288'
-    - '#FAFFD7'
-  lightness: 0.2546374
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.5775717
+color:
+  saturation: 0.6593592
+  brandStrength: 0.4932546
+  lightness: 0.3229342
+  brandColors:
+    - '#6489CE'
+    - '#B4CEF1'
+    - '#39421F'
+    - '#B4A288'
+    - '#FAFFD7'
+  rhythmicContrast: 0.5817875
+layout_spectrum: 1
 name: ashclarke
