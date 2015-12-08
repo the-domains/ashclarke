@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7715008
+  brandStrength: 0.4932546
+  lightness: 0.2546374
+  brandColors:
+    - '#6489CE'
+    - '#B4CEF1'
+    - '#39421F'
+    - '#B4A288'
+    - '#FAFFD7'
+  rhythmicContrast: 0.2849916
+typography_spectrum: 0.5775717
+name: ashclarke
