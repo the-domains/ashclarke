@@ -4,16 +4,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.5775717
+typography_spectrum: 0.1348013
 color:
-  saturation: 0.6593592
-  brandStrength: 0.4932546
+  saturation: 0.6944146
+  brandStrength: 0.7373791
   lightness: 0.3229342
   brandColors:
     - '#6489CE'
@@ -21,6 +21,6 @@ color:
     - '#39421F'
     - '#B4A288'
     - '#FAFFD7'
-  rhythmicContrast: 0.5817875
+  rhythmicContrast: 0.6933405
 layout_spectrum: 1
 name: ashclarke
