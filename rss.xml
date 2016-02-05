@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ash Clarke's Blog]]></title>
         <description><![CDATA[Ash Clarke's Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ashclarke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 21:30:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 21:37:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ashclarke/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World!]]></title>
-            <description><![CDATA[<article><h1>Hello World!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5eef4ac4a0826832f323b3cfc9dfc345c57c7a86.jpg"></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <description><![CDATA[<article><h1>Hello World!</h1><p>View of Juan de Fuca Strait</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d31bbef79e283f3ae16116e8d1d12c38c6a380d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ashclarke/hello-world/index.html</link>
             <guid isPermaLink="false">a18ad94c-e9b7-497b-a72e-d3291b811286</guid>
-            <pubDate>Fri, 05 Feb 2016 21:29:39 GMT</pubDate>
+            <pubDate>Fri, 05 Feb 2016 21:36:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
