@@ -1,3 +1,7 @@
+name: ashclarke
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1348013
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1348013
+title: "Ash Clarke's Blog"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6944146
-  brandStrength: 0.7373791
-  lightness: 0.3229342
   brandColors:
     - '#6489CE'
     - '#B4CEF1'
     - '#39421F'
     - '#B4A288'
     - '#FAFFD7'
+  brandStrength: 0.7373791
+  lightness: 0.3229342
+  saturation: 0.6944146
   rhythmicContrast: 0.6933405
-layout_spectrum: 1
-name: ashclarke
+purpose: []
